@@ -1,10 +1,9 @@
 Engineering Manager at Seagate. Working from Longmont, Colorado!
 
-- 👋 Hi, I’m @ivan-lopez-rodriguez
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @ivan-lopez-rodriguez and I welcome you to my GitHub account. 
+- 👀 I’m interested in clean, simple and elegant code.
+- 🌱 I’m currently pursuing my PMP certification. 
+- 💞️ I’m looking to make my workplace more inclusive. 
 
 <!---
 ivan-lopez-rodriguez/ivan-lopez-rodriguez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
